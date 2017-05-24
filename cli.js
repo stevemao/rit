@@ -31,7 +31,7 @@ if (!func) {
 }
 
 if (typeof m[func] !== 'function') {
-  console.error(`${func} is not a exported function
+  console.error(`${func} is not an exported function
 Did forget to you export it?`)
   process.exit(1)
 }
