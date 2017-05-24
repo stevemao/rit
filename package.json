@@ -1,6 +1,6 @@
 {
   "name": "rit",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Run any exported function",
   "bin": "cli.js",
   "scripts": {
