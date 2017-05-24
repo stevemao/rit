@@ -1,0 +1,32 @@
+{
+  "name": "rit",
+  "version": "0.0.0",
+  "description": "Run any exported function",
+  "bin": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevemao/rit.git"
+  },
+  "keywords": [
+    "run",
+    "cli",
+    "it",
+    "exported",
+    "function",
+    "export",
+    "test",
+    "lambda"
+  ],
+  "author": "Steve Mao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stevemao/rit/issues"
+  },
+  "homepage": "https://github.com/stevemao/rit#readme",
+  "devDependencies": {
+    "minimist": "^1.2.0"
+  }
+}
